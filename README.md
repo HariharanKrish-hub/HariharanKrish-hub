@@ -17,6 +17,4 @@
 
 ![HariharanKrish-hub's Stats](https://github-readme-stats.vercel.app/api?username=HariharanKrish-hub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
-
 [![Hariharan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HariharanKrish-hub&bg_color=121212&color=f5f0f4&line=12e60f&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
